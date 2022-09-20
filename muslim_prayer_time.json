@@ -3,7 +3,7 @@
   "_nativeBanner comment": "0: OffAds & 1: Native_Banner & 2: Banner",
   "ads": [
     {
-      "app_showAds": "0",
+      "app_showAds": "1",
       "app_dialogBeforeAdShow": "1",
       "app_showAdAppVersion": "4",
       "app_clickCountAd": "2",
@@ -11,7 +11,7 @@
       "appOpenAd": "1",
       "interstitial": "1",
       "nativeAd": "1",
-      "nativeBanner": "2",
+      "nativeBanner": "1",
       "nativespacebox": "1",
       "nativespaceboxColor": "01453A",
       "nativebg": "01453A",
