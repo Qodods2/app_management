@@ -8,8 +8,8 @@
       "app_showAdAppVersion": "4",
       "app_clickCountAd": "2",
 
-      "appOpenAd": "1",
-      "interstitial": "1",
+      "appOpenAd": "0",
+      "interstitial": "0",
       "nativeAd": "1",
       "nativeBanner": "1",
       "nativespacebox": "1",
