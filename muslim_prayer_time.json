@@ -8,7 +8,7 @@
       "app_showAdAppVersion": "1",
       "app_clickCountAd": "2",
 
-      "appOpenAd": "1",
+      "appOpenAd": "0",
       "interstitial": "0",
       "nativeAd": "1",
       "nativeBanner": "1",
@@ -24,7 +24,7 @@
       "Interstitial": "/6499/example/interstitial",
       "Native": "/6499/example/native",
       "RewardedVideo": "/6499/example/app-open",
-      "AppOpen": "ca-app-pub-3940256099942544/3419835294"
+      "AppOpen": "/6499/example/app-open"
     }
   ],
   "_update comment": "0:None & 1:Normal & 2:Force",
