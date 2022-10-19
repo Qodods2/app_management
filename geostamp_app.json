@@ -19,12 +19,12 @@
       "nativebutton": "000000",
       "nativedescription": "000000",
 
-      "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner": "/6499/example/banner",
-      "Interstitial": "/6499/example/interstitial",
-      "Native": "/6499/example/native",
+      "AppID": "ca-app-pub-6696719295870980~6890281445",
+      "Banner": "ca-app-pub-6696719295870980/2984063129",
+      "Interstitial": "ca-app-pub-6696719295870980/7342906697",
+      "Native": "ca-app-pub-6696719295870980/6540164755",
       "RewardedVideo": "/6499/example/app-open",
-      "AppOpen": "/6499/example/app-open"
+      "AppOpen": "ca-app-pub-6696719295870980/3914001411"
     }
   ],
   "_update comment": "0:None & 1:Normal & 2:Force",
