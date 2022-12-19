@@ -1,6 +1,6 @@
 {
   "_ads comment": "0:OffAds & 1:OnAds",
-  "_nativeBanner comment":2 "0: OffAds & 1: Native_Banner & 2: Banner"
+  "_nativeBanner comment":2 "0: OffAds & 1: Native_Banner & 2: Banner",
   "ads": [
     {
       "app_showAds": "1",
