@@ -11,7 +11,7 @@
       "appOpenAd": "1",
       "interstitial": "1",
       "nativeAd": "1",
-      "nativeBanner": "1",
+      "nativeBanner": "2",
       "nativespacebox": "1",
       "nativespaceboxColor": "01453A",
       "nativebg": "01453A",
@@ -20,9 +20,9 @@
       "nativedescription": "ffffff",
 
       "AppID": "ca-app-pub-3071142199486387~6594662776",
-      "Banner": "ca-app-pub-3071142199486387/4627349027",
-      "Interstitial": "/21753324030,22816541980/com.world.Islamic.prayer.times_Interstitial",
-      "Native": "/21753324030,22816541980/com.world.Islamic.prayer.times_Native",
+      "Banner": "ca-app-pub-3940256099942544/6300978111",
+      "Interstitial": "ca-app-pub-3940256099942544/8691691433",
+      "Native": "	ca-app-pub-3940256099942544/2247696110",
       "RewardedVideo": "ca-app-pub-3940256099942544/5354046379",
       "AppOpen": "ca-app-pub-3940256099942544/3419835294"
     }
