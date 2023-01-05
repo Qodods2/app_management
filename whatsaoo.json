@@ -3,10 +3,10 @@
   "_nativeBanner comment": "0: OffAds & 1: Native_Banner & 2: Banner",
   "ads": [
     {
-      "app_showAds": "0",
+      "app_showAds": "1",
       "app_dialogBeforeAdShow": "1",
       "app_showAdAppVersion": "1",
-      "app_clickCountAd": "5",
+      "app_clickCountAd": "2",
 
       "appOpenAd": "1",
       "interstitial": "1",
