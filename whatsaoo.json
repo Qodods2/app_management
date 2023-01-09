@@ -6,12 +6,12 @@
       "app_showAds": "0",
       "app_dialogBeforeAdShow": "1",
       "app_showAdAppVersion": "1",
-      "app_clickCountAd": "2",
+      "app_clickCountAd": "10",
 
       "appOpenAd": "1",
       "interstitial": "0",
       "nativeAd": "0",
-      "nativeBanner": "0",
+      "nativeBanner": "1",
       "nativespacebox": "0",
       "nativespaceboxColor": "ffffff",
       "nativebg": "ffffff",
@@ -19,12 +19,12 @@
       "nativebutton": "FFFF00",
       "nativedescription": "000000",
 
-      "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner": "ca-app-pub-3940256099942544/6300978111",
+      "AppID": "ca-app-pub-2948414570314579~4280121829",
+      "Banner": "ca-app-pub-2948414570314579/7497946567",
       "Interstitial": "ca-app-pub-3940256099942544/8691691433",
       "Native": "ca-app-pub-3940256099942544/2247696110",
       "RewardedVideo": "ca-app-pub-3940256099942544/5354046379",
-      "AppOpen": "ca-app-pub-3940256099942544/3419835294"
+      "AppOpen": "ca-app-pub-2948414570314579/5745881193"
     }
   ],
   "_update comment": "0:None & 1:Normal & 2:Force",
