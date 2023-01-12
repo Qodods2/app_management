@@ -6,10 +6,10 @@
       "app_showAds": "1",
       "app_dialogBeforeAdShow": "1",
       "app_showAdAppVersion": "1",
-      "app_clickCountAd": "10",
+      "app_clickCountAd": "2",
 
       "appOpenAd": "1",
-      "interstitial": "0",
+      "interstitial": "1",
       "nativeAd": "0",
       "nativeBanner": "2",
       "nativespacebox": "0",
