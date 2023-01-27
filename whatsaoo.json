@@ -16,8 +16,8 @@
       "nativespaceboxColor": "ffffff",
       "nativebg": "ffffff",
       "nativetitle": "000000",
-      "nativebutton": "FFFF00",
-      "nativedescription": "000000",
+      "nativebutton": "#5bc1a9",
+      "nativedescription": "#D3D3D3",
 
       "AppID": "ca-app-pub-2948414570314579~4280121829",
       "Banner": "ca-app-pub-2948414570314579/7497946567",
