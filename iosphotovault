@@ -5,12 +5,12 @@
     {
       "app_showAds": "1",
     
-      "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner": "ca-app-pub-3071142199486387/6559964520",
-      "Interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "Native": "ca-app-pub-3940256099942544/2247696110",
-      "RewardedVideo": "ca-app-pub-3940256099942544/5354046379",
-      "AppOpen": "ca-app-pub-3940256099942544/3419835294"
+      "AppID": "ca-app-pub-3940256099942544~1458002511",
+      "Banner": "	ca-app-pub-3940256099942544/2934735716",
+      "Interstitial": "ca-app-pub-3940256099942544/5135589807",
+      "Native": "ca-app-pub-3940256099942544/3986624511",
+      "RewardedVideo": "ca-app-pub-3940256099942544/1712485313",
+      "AppOpen": "ca-app-pub-3940256099942544/5662855259"
      }
      ]
 }
