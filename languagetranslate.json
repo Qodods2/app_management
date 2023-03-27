@@ -19,6 +19,16 @@
       "nativebutton": "238636",
       "nativedescription": "ffffff",
 
+      "vpnselectcountry": "us,ca,dk",
+      "VPNBaseUrl": "https://awebhtpo3u8g5t.ecoweb-network.com",
+      "VPNCarrierId": "sah_alphavpnproject",
+      "VPNCompulsory": "1",
+      "vpnFixcountry": "";
+      "vpnFixstate": "";
+      "vpnLocationLink": "https://pro.ip-api.com/json?key=GnPb9UWPFd0kcmg";
+      "vpnCity": "";
+      
+      
       "AppID": "ca-app-pub-3206456546664189~2974932913",
       "Banner": "ca-app-pub-3940256099942544/6300978111",
       "Interstitial": "ca-app-pub-3940256099942544/1033173712",
