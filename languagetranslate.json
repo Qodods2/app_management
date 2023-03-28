@@ -4,14 +4,14 @@
   "ads": [
     {
       "app_showAds": "1",
-      "vpnscreen": "0",
-      "app_dialogBeforeAdShow": "1",
+      "vpnscreen": "1",
+      "app_dialogBeforeAdShow": "0",
       "app_showAdAppVersion": "1",
       "app_clickCountAd": "0",
 
       "appOpenAd": "1",
       "interstitial": "1",
-      "interstitialBack": "1",
+      "interstitialBack": "0",
       "nativeAd": "1",
       "nativeBanner": "1",
       "nativespacebox": "1",
