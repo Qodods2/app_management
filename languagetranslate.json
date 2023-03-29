@@ -4,7 +4,7 @@
   "ads": [
     {
       "app_showAds": "1",
-      "vpnscreen": "0",
+      "vpnscreen": "1",
       "app_dialogBeforeAdShow": "1",
       "app_showAdAppVersion": "1",
       "app_clickCountAd": "2",
