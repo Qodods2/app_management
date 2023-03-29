@@ -4,7 +4,7 @@
   "ads": [
     {
       "app_showAds": "1",
-      "vpnscreen": "1",
+      "vpnscreen": "0",
       "app_dialogBeforeAdShow": "1",
       "app_showAdAppVersion": "1",
       "app_clickCountAd": "2",
@@ -24,7 +24,7 @@
       "vpnselectcountry": "us,ca,dk",
       "VPNBaseUrl": "https://awebhtpo3u8g5t.ecoweb-network.com",
       "VPNCarrierId": "sah_alphavpnproject",
-      "VPNCompulsory": "1",
+      "VPNCompulsory": "0",
       "vpnFixcountry": "",
       "vpnFixstate": "",
       "vpnLocationLink": "https://pro.ip-api.com/json?key=GnPb9UWPFd0kcmg",
