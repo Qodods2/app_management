@@ -24,7 +24,7 @@
       "vpnselectcountry": "us,ca,dk",
       "VPNBaseUrl": "https://awebhtpo3u8g5t.ecoweb-network.com",
       "VPNCarrierId": "sah_alphavpnproject",
-      "VPNCompulsory": "1",
+      "VPNCompulsory": "0",
       "vpnFixcountry": "",
       "vpnFixstate": "",
       "vpnLocationLink": "https://pro.ip-api.com/json?key=GnPb9UWPFd0kcmg",
