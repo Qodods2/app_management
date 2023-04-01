@@ -11,7 +11,7 @@
 
       "appOpenAd": "1",
       "interstitial": "1",
-      "interstitialBack": "0",
+      "interstitialBack": "1",
       "nativeAd": "1",
       "nativeBanner": "1",
       "nativespacebox": "1",
@@ -24,7 +24,7 @@
       "vpnselectcountry": "us,ca,dk",
       "VPNBaseUrl": "https://awebhtpo3u8g5t.ecoweb-network.com",
       "VPNCarrierId": "sah_alphavpnproject",
-      "VPNCompulsory": "0",
+      "VPNCompulsory": "1",
       "vpnFixcountry": "",
       "vpnFixstate": "",
       "vpnLocationLink": "https://pro.ip-api.com/json?key=GnPb9UWPFd0kcmg",
