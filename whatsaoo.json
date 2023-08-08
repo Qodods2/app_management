@@ -6,7 +6,7 @@
       "app_showAds": "1",
       "app_dialogBeforeAdShow": "1",
       "app_showAdAppVersion": "1",
-      "app_clickCountAd": "1",
+      "app_clickCountAd": "3",
 
       "appOpenAd": "1",
       "interstitial": "1",
@@ -20,11 +20,11 @@
       "nativedescription": "000000",
 
       "AppID": "ca-app-pub-2948414570314579~4280121829",
-      "Banner": "ca-app-pub-2948414570314579/7497946567",
+      "Banner": "ca-app-pub-3940256099942544/6300978111",
       "Interstitial": "ca-app-pub-6696719295870980/4872189747",
-      "Native": "ca-app-pub-6696719295870980/5781962646",
-      "RewardedVideo": "ca-app-pub-3940256099942544/5354046379",
-      "AppOpen": "ca-app-pub-6696719295870980/1032198847"
+      "Native": "ca-app-pub-6696719295870980/3506501407",
+      "RewardedVideo": "ca-app-pub-6696719295870980/5767447630",
+      "AppOpen": "ca-app-pub-6696719295870980/2171817550"
     }
   ],
   "_update comment": "0:None & 1:Normal & 2:Force",
