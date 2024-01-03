@@ -19,12 +19,12 @@
       "nativebutton": "238636",
       "nativedescription": "ffffff",
 
-      "AppID": "ca-app-pub-3071142199486387~6594662776",
-      "Banner": "ca-app-pub-3071142199486387/8752339325",
-      "Interstitial": "ca-app-pub-3071142199486387/9442604460",
-      "Native": "ca-app-pub-3071142199486387/8752339325",
-      "RewardedVideo": "ca-app-pub-3071142199486387/8250999572",
-      "AppOpen": "ca-app-pub-3071142199486387/8650884089"
+      "AppID": "",
+      "Banner": "",
+      "Interstitial": "",
+      "Native": "",
+      "RewardedVideo": "",
+      "AppOpen": ""
       
     }
   ],
